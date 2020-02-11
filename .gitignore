@@ -3,3 +3,6 @@
 
 # configurations file
 config.py
+
+# pycache directory
+/__pycache__
